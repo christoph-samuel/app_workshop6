@@ -21,6 +21,12 @@
         "mainFile": "index.ts",
         "rootDir": "demo/pages/welcome"
     },
+    "ui/button": {
+        "scope": "onpoint.workshop6",
+        "version": "0.0.1",
+        "mainFile": "index.js",
+        "rootDir": "scope/ui/button"
+    },
     "ui/card": {
         "scope": "",
         "version": "",
