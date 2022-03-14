@@ -34,8 +34,8 @@
         "rootDir": "demo/ui/card"
     },
     "ui/christoph/news-with-picture": {
-        "scope": "",
-        "version": "",
+        "scope": "onpoint.workshop6",
+        "version": "1.0.0",
         "mainFile": "index.js",
         "rootDir": "workshop6/ui/christoph/news-with-picture"
     },
