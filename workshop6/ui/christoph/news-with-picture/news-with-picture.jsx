@@ -4,7 +4,7 @@ export function NewsWithPicture({text, imgSrc}) {
     const styleDiv = {
         border: '1px solid black',
         borderRadius: '5px',
-        width: 'max-content',
+        width: '400px',
         height: 'max-content',
         padding: '10px',
         margin: '20px',

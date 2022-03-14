@@ -35,7 +35,7 @@
     },
     "ui/christoph/news-with-picture": {
         "scope": "onpoint.workshop6",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "mainFile": "index.js",
         "rootDir": "workshop6/ui/christoph/news-with-picture"
     },
