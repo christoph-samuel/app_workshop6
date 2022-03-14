@@ -9,11 +9,23 @@
  */
 
 {
+    "christoph/news-with-picture": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.js",
+        "rootDir": "workshop6/christoph/news-with-picture"
+    },
     "envs/my-react": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
         "rootDir": "demo/envs/my-react"
+    },
+    "nico/navigation-bar": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.js",
+        "rootDir": "workshop6/nico/navigation-bar"
     },
     "pages/welcome": {
         "scope": "",
