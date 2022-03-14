@@ -9,35 +9,17 @@
  */
 
 {
-    "christoph/news-with-picture": {
-        "scope": "",
-        "version": "",
-        "mainFile": "index.js",
-        "rootDir": "workshop6/christoph/news-with-picture"
-    },
     "envs/my-react": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
         "rootDir": "demo/envs/my-react"
     },
-    "nico/navigation-bar": {
-        "scope": "",
-        "version": "",
-        "mainFile": "index.js",
-        "rootDir": "workshop6/nico/navigation-bar"
-    },
     "pages/welcome": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
         "rootDir": "demo/pages/welcome"
-    },
-    "toni/news-short": {
-        "scope": "",
-        "version": "",
-        "mainFile": "index.js",
-        "rootDir": "workshop6/toni/news-short"
     },
     "ui/button": {
         "scope": "onpoint.workshop6",
@@ -51,17 +33,35 @@
         "mainFile": "index.ts",
         "rootDir": "demo/ui/card"
     },
+    "ui/christoph/news-with-picture": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.js",
+        "rootDir": "workshop6/ui/christoph/news-with-picture"
+    },
     "ui/heading": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
         "rootDir": "demo/ui/heading"
     },
+    "ui/nico/navigation-bar": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.js",
+        "rootDir": "workshop6/ui/nico/navigation-bar"
+    },
     "ui/text": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
         "rootDir": "demo/ui/text"
+    },
+    "ui/toni/news-short": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.js",
+        "rootDir": "workshop6/ui/toni/news-short"
     },
     "$schema-version": "14.9.0"
 }
