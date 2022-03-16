@@ -9,12 +9,19 @@ export function NavigationBar({text}) {
         width: '100%',
         display: 'flex',
         flexDirection: 'row',
-        justifyContent: 'space-evenly'
+        justifyContent: 'space-evenly',
+        flexWrap: 'wrap'
     }
     const styleButton = {
         border: '1px solid rgba(0,0,0,0.5)',
         borderRadius: '5px',
-        backgroundColor: 'rgba(255,255,255,0)'
+        backgroundColor: 'rgba(255,255,255,0)',
+        padding: '10px 20px',
+        margin: '10px'
+    }
+    const styleSelect = {
+        padding: '10px',
+        margin: '10px'
     }
 
     return (
@@ -26,7 +33,7 @@ export function NavigationBar({text}) {
                 <button style={styleButton}>Sport</button>
                 <button style={styleButton}>Adabei</button>
                 <button style={styleButton}>Digital</button>
-                <select>
+                <select style={styleSelect}>
                     <option selected="true" disabled={true}>Konto</option>
                     <option>Übersicht</option>
                     <option>Abmelden</option>
