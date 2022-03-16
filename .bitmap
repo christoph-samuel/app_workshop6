@@ -46,8 +46,8 @@
         "rootDir": "demo/ui/heading"
     },
     "ui/nico/navigation-bar": {
-        "scope": "",
-        "version": "",
+        "scope": "onpoint.workshop6",
+        "version": "1.0.0",
         "mainFile": "index.js",
         "rootDir": "workshop6/ui/nico/navigation-bar"
     },
