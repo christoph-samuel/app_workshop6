@@ -58,8 +58,8 @@
         "rootDir": "demo/ui/text"
     },
     "ui/toni/news-short": {
-        "scope": "",
-        "version": "",
+        "scope": "onpoint.workshop6",
+        "version": "1.0.0",
         "mainFile": "index.js",
         "rootDir": "workshop6/ui/toni/news-short"
     },
